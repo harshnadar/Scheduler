@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SchedulerApplication<scheduler>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.harsh.scheduler.SchedulerApplication",
+            "projectName": "scheduler",
+            "args": ""
+        }
+    ]
+}
